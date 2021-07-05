@@ -66,6 +66,3 @@ PHASE 4 - BOT
 
 3. Install npm packages (discord.js, node-fetch)
 
-FOR ANY QUESTIONS, COMMENTS, OR CONCERNS CONTACT ME ON DISCORD.
-Ryz0r#0101
-
